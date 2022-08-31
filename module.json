@@ -1,0 +1,19 @@
+{
+   "name": "playlist-import-json",
+   "title": "Playlist Import JSON",
+   "description": "<p>Allows you to import and export playlists in JSON format.</p>",
+   "version": "1.0.0",
+   "author": "Kryand",
+   "scripts": ["./main.js"],
+   "styles": [],
+   "packs": [],
+   "url": "https://github.com/kree-nickm/fvtt-playlist-import-json",
+   "manifest": "https://raw.githubusercontent.com/kree-nickm/fvtt-playlist-import-json/main/module.json",
+   "download": "https://github.com/kree-nickm/fvtt-playlist-import-json/archive/main.zip",
+   "changelog": "https://github.com/kree-nickm/fvtt-playlist-import-json/blob/main/CHANGELOG.md",
+   "bugs": "https://github.com/kree-nickm/fvtt-playlist-import-json/issues",
+   "readme": "README.md",
+   "license": "LICENSE",
+   "minimumCoreVersion": "0.8.0",
+   "compatibleCoreVersion": "9.280"
+}
