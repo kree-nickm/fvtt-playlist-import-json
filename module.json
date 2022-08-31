@@ -2,7 +2,7 @@
    "name": "playlist-import-json",
    "title": "Playlist Import JSON",
    "description": "<p>Allows you to import and export playlists in JSON format.</p>",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "author": "Kryand",
    "scripts": ["./main.js"],
    "styles": [],
