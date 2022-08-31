@@ -1,2 +1,4 @@
-##Version 1.0.0 | August 8, 2022
+# Playlist Import JSON Change Log
+
+## Version 1.0.1 | August 31, 2022
 Initial release.
